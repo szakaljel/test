@@ -2,3 +2,5 @@ zmiana 1 proj 1
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxx
+yyyyyyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyy
